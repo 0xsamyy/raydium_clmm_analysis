@@ -31,7 +31,6 @@ cargo build --release
 
 - docs/CLI.md
 - docs/CONCEPTS.md
-- docs/GITHUB.md
 
 ## Notes
 
